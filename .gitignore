@@ -1,0 +1,8 @@
+epochs/*
+internal_result/*
+results/*
+training_results/*
+*.pyc
+.idea
+.DS_Store
+
